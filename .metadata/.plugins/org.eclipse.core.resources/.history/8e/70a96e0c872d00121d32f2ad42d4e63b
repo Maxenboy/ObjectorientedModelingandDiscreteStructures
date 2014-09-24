@@ -1,0 +1,31 @@
+package model;
+
+import java.io.IOException;
+import java.util.Scanner;
+
+import util.XLException;
+
+import expr.ExprParser;
+
+public class SlotParser {
+	public static Slot parse(String s) {
+		Slot t = null;
+		Scanner scan = new Scanner(s);
+		String token = scan.next();
+		if (token.length() == 0) {
+			t = new NullSlot();
+		}
+		if (s.charAt(0) == '#') {
+			int i = token.indexOf('#');
+			t = new StringSlot(token.substring(i + 1));
+		}
+		try {
+			t = new ExprSlot(new ExprParser().build(s));
+		} catch (IOException e) {
+			e.printStackTrace();
+			throw new XLException(e.getMessage());
+		}
+		return t;
+
+	}
+}

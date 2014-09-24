@@ -1,0 +1,13 @@
+package model;
+
+import java.util.Scanner;
+
+
+public class SlotParser {
+	public static Slot parse(String s) {
+		Scanner scan=new Scanner(s);
+		String token =scan.next();
+		return null;
+		
+	}
+}

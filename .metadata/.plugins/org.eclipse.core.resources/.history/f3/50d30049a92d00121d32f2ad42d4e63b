@@ -1,0 +1,30 @@
+package gui;
+
+import java.awt.Color;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.Observable;
+
+import model.Sheet;
+
+
+public class CurrentSlot extends Observable implements ActionListener {
+	private SlotLabel slotLabel;
+	private Sheet sheet;
+	public CurrentSlot(Sheet sheet){
+		slotLabel=new SlotLabel(null, null);
+		this.sheet=sheet;
+	}
+	public void ChangeSlot(SlotLabel slot){
+		slotLabel.setBackground(Color.WHITE);
+		slotLabel=slot;
+		slotLabel.setBackground(Color.YELLOW);
+		setChanged();
+		notifyObservers(slotLabel.getAddress());
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		sheet.put(slotLabel.getAddress(),e.getActionCommand());
+	}
+}

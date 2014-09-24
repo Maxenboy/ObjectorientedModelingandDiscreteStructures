@@ -1,0 +1,22 @@
+package model;
+
+import java.util.HashMap;
+
+import expr.Environment;
+
+public class CircularSlot extends Slot {
+
+	
+	@Override
+	public String valueToString(Environment env) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String expressionToString() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

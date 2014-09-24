@@ -1,0 +1,17 @@
+package model;
+
+import java.util.HashMap;
+
+import expr.Environment;
+
+public abstract class Slot {
+
+	
+	public abstract String valueToString(Environment env);
+
+	public abstract String expressionToString();
+		
+	
+
+	
+}

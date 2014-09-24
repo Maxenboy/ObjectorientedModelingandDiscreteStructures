@@ -1,0 +1,9 @@
+package model;
+
+import expr.Expr;
+
+public class SlotParser {
+	public Expr parse(String s) {
+		return null;
+	}
+}

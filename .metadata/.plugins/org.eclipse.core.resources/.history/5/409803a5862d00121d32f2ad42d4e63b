@@ -1,0 +1,19 @@
+package model;
+
+import expr.Environment;
+
+public class NullSlot extends Slot {
+
+	@Override
+	public String valueToString(Environment env) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String expressionToString() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

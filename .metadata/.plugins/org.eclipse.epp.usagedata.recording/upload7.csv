@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453043676
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453046328
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453060165
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453062911
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453071678
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453076514
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453094953
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453100008
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453116482
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453120103
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453166124
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453183346
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1347453187153
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453187480
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453187574
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453201832
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453204812
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347453220538
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453273097
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453278510
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1347453280742
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453281085
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453281179
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1347453291896
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1347453292239
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1347453293503
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453294829
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453296857
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453334266
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453336200
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453340444
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453344827
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453384998
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453416838
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1347453421034
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453421331
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453421424
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347453424436
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453426136
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453428430
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453440473
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453449381
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1347453450738
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453451050
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453451143
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347453454981
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453456213
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453459926
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453480050
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453487897
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453490611
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453490783
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347453493825
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453496040
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453499753
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453504948
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453507491
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453507584
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347453510813
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453511999
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453513653
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453517241
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453521624
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453525259
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453525353
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347453528379
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453533933
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453536023
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347453537224
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453539892
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453700144
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453701532
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453706962
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453727523
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453736384
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453764479
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453765930
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453768208
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1347453780438
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453782390
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453785419
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453788167
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453790244
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453795736
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453797421
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453803661
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347453807904
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453809605
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453812662
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453821039
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453822412
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453824035
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1347453827108
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453829073
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347453831242
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453833987
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347453835423
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453884344
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453885686
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347453886169
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453896871
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453898229
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453981128
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347453982298
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453987508
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347453990769
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347453993811
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347453994856
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347454003545
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454019535
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454020736
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347454021782
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454026228
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454027555
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347454029333
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347454034606
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347454036150
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347454038724
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454053841
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454054948
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347454056681
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347454061268
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347454062875
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347454065184
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454070020
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454071159
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347454074606
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347454080487
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347454081829
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347454083810
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454158380
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454289231
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1347454291602
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454309152
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454312225
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454316016
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454316125
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454316250
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321008
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321039
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321039
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321039
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321055
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321055
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321055
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321070
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321070
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321070
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321070
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321086
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321398
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321414
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321414
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321414
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321414
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321429
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321429
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321429
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321429
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321445
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321445
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321445
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321460
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321460
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321460
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321460
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321476
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321476
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321476
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321476
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321492
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321492
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321492
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321507
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321507
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321507
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321507
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321523
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321523
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321523
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321538
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321538
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321538
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321538
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321554
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321554
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321554
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321570
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321570
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321570
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321570
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321585
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321585
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321585
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321585
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321601
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321601
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321601
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321601
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321616
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321616
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321616
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321616
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321632
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321632
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321632
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321648
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321648
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321648
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321648
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321663
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321663
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321663
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321663
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321679
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321679
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321679
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321679
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321694
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321694
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321694
+error,log,,,"Unhandled event loop exception during blocked modal context.",1347454321694
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454323942
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110502-1955,"org.eclipse.equinox.p2.ui.sdk",1347454365831
+started,bundle,org.eclipse.equinox.p2.ui,2.1.0.v20110601,"org.eclipse.equinox.p2.ui",1347454365846
+started,bundle,org.eclipse.equinox.p2.transport.ecf,1.0.0.v20110510,"org.eclipse.equinox.p2.transport.ecf",1347454365956
+started,bundle,org.eclipse.ecf.filetransfer,5.0.0.v20110531-2218,"org.eclipse.ecf.filetransfer",1347454366034
+started,bundle,org.eclipse.ecf.identity,3.1.100.v20110531-2218,"org.eclipse.ecf.identity",1347454366034
+started,bundle,org.eclipse.ecf,3.1.300.v20110531-2218,"org.eclipse.ecf",1347454366143
+started,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,4.0.0.v20110531-2218,"org.eclipse.ecf.provider.filetransfer.httpclient",1347454366252
+started,bundle,org.eclipse.ecf.provider.filetransfer,3.2.0.v20110531-2218,"org.eclipse.ecf.provider.filetransfer",1347454366283
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454366502
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347454456312
+started,bundle,org.eclipse.equinox.p2.updatesite,1.0.300.v20110510,"org.eclipse.equinox.p2.updatesite",1347454466240
+started,bundle,org.eclipse.equinox.p2.publisher.eclipse,1.0.0.v20110511,"org.eclipse.equinox.p2.publisher.eclipse",1347454466661
+error,log,,,"Operation details",1347454490421
+error,log,,,"Operation details",1347454490436
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454549733
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110502-1955,"org.eclipse.equinox.p2.ui.sdk.install",1347454549764
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454554835
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454579858
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.help.aboutAction",1347454579920
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347454611760
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454613928
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454789081
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1347454789115
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347454793682
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347455075053
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110502-1955,"org.eclipse.equinox.p2.ui.sdk.install",1347455075086
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347455132597
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455132612
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455133857
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455135150
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455136481
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455143897
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455145206
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455146441
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455147611
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455148476
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455149248
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455150236
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455151070
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455151941
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1347455162841
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455163262
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455163395
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347455217789
+activated,view,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.PackageExplorer",1347455366459
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455366767
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1347455367029
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347455406130
+activated,editor,edu.buffalo.cse.green,3.5.0,"edu.buffalo.cse.green.editor.diagrameditor",1347455408090
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347455565078
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347455566562
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347455567186

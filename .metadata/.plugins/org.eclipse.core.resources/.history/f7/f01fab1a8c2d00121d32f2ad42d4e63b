@@ -1,0 +1,77 @@
+package model;
+
+import java.io.IOException;
+import java.util.HashMap;
+
+import util.XLException;
+import expr.Environment;
+
+public class Sheet extends javautilObservable implements Environment {
+	private HashMap<String, Slot> slots;
+	private Slot nullSlot;
+
+	public Sheet() {
+		slots = new HashMap<String, Slot>();
+		nullSlot = new NullSlot();
+	}
+
+	public String valueToString(String s) {
+		return getSlot(s).valueToString(this);
+	}
+
+	public String expressionToString(String s) {
+		return getSlot(s).expressionToString();
+	}
+
+	public void put(String string1, String string2) {
+		Slot oldtemp = slots.get(string1);
+		Slot newtemp = SlotParser.parse(string2);
+		if (newtemp instanceof NullSlot) {
+			clear(string1);
+		} else {
+			slots.put(string1, new CircularSlot());
+			try {
+				newtemp.valueToString(this);
+			} catch (XLException e) {
+				slots.put(string1, oldtemp);
+				throw e;
+			}
+			slots.put(string1, newtemp);
+		}
+		try {
+			newtemp.valueToString(this);
+		} catch (XLException e) {
+			slots.put(string1, oldtemp);
+			throw e;
+		}
+	}
+
+	public void clearAll() {
+		slots.clear();
+	}
+
+	public void clear(String address) {
+		slots.remove(address);
+	}
+
+	public void save(XLPrintStream print) {
+		print.save(slots.entrySet());
+
+	}
+
+	public void load(XLBufferedReader reader) {
+		reader.load(slots);
+	}
+
+	@Override
+	public double value(String s) {
+		return Double.parseDouble(getSlot(s).valueToString(this));
+	}
+
+	private Slot getSlot(String s) {
+		if (slots.containsKey(s)) {
+			return slots.get(s);
+		}
+		return nullSlot;
+	}
+}

@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package gui;
+
+/**
+ * @author M@sk
+ *
+ */
+public class Observable {
+
+}

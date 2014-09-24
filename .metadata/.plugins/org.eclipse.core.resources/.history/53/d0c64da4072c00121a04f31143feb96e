@@ -1,0 +1,49 @@
+package model;
+
+import java.util.HashMap;
+import java.util.Observable;
+
+import expr.Environment;
+
+public class Sheet extends Observable implements Environment {
+	private HashMap<String, Slot> slots;
+
+	public Sheet() {
+		slots = new HashMap<String, Slot>();
+	}
+
+	public String valueToString(String s) {
+		return slots.get(s).valueToString(slots);
+	}
+
+	public String expressionToString(String s) {
+		return slots.get(s).expressionToString(slots);
+	}
+
+	public void put(String s, Slot slot) {
+		slots.put(s, slot);
+
+	}
+
+	public void clearAll() {
+		slots.clear();
+	}
+
+	public void clear(String string) {
+		slots.remove(string);
+	}
+
+	public void save(XLPrintStream print) {
+
+	}
+
+	public void load(XLBufferedReader reader) {
+
+	}
+
+	@Override
+	public double value(String s) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+}

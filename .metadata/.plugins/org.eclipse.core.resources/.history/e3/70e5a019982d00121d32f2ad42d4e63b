@@ -1,0 +1,10 @@
+package gui;
+
+
+public class CurrentSlot extends JavaUtilObervable {
+	private String address;
+	
+	public void addressChange(String address){
+		
+	}
+}

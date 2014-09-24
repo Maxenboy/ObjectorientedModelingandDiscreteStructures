@@ -1,0 +1,18 @@
+package model;
+
+
+import expr.Environment;
+
+public class StringSlot extends Slot {
+private String contents;
+	
+	@Override
+	public String valueToString(Environment env) {
+		return "0";
+	}
+	@Override
+	public String expressionToString() {
+		return contents;
+	}
+
+}

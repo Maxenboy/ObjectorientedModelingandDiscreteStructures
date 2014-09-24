@@ -1,0 +1,46 @@
+package model;
+
+import java.util.HashMap;
+import expr.Environment;
+
+public class Sheet extends javautilObservable implements Environment {
+	private HashMap<String, Slot> slots;
+
+	public Sheet() {
+		slots = new HashMap<String, Slot>();
+	}
+
+	public String valueToString(String s) {
+		return slots.get(s).valueToString(this);
+	}
+
+	public String expressionToString(String s) {
+		return slots.get(s).expressionToString();
+	}
+
+	public void put(String string1, String string2) {
+		slots.put(string1, SlotParser.parse(string2));
+	}
+
+	public void clearAll() {
+		slots.clear();
+	}
+
+	public void clear(String string) {
+		slots.remove(string);
+	}
+
+	public void save(XLPrintStream print) {
+		print.save(slots.entrySet());
+
+	}
+
+	public void load(XLBufferedReader reader) {
+		reader.load(slots);
+	}
+
+	@Override
+	public double value(String s) {
+		return Double.parseDouble(slots.get(s).valueToString(this));
+	}
+}

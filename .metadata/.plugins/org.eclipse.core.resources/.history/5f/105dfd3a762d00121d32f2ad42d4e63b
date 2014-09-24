@@ -1,0 +1,9 @@
+package model;
+
+
+public class SlotParser {
+	public static Slot parse(String s) {
+		return null;
+		
+	}
+}

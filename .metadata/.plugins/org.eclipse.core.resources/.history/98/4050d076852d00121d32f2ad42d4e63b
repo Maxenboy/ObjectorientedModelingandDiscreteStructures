@@ -1,0 +1,16 @@
+package model;
+
+
+import expr.Environment;
+
+public abstract class Slot {
+
+	
+	public abstract String valueToString(Environment env);
+
+	public abstract String expressionToString();
+		
+	
+
+	
+}

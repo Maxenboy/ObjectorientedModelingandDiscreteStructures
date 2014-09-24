@@ -1,0 +1,20 @@
+package model;
+
+import util.XLException;
+import expr.Environment;
+
+public class CircularSlot implements Slot {
+
+	@Override
+	public String valueToString(Environment env) throws XLException{
+		
+		throw new XLException("Circular dependancy");
+	}
+
+	@Override
+	public String expressionToString() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

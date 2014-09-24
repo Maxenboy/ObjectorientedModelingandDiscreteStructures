@@ -1,0 +1,25 @@
+package model;
+
+import java.util.HashMap;
+
+import expr.Expr;
+
+public class ExprSlot extends Slot {
+private Expr contents;
+	@Override
+	public double computeValue() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	@Override
+	public String valueToString(HashMap<String,Slot> map) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public String expressionToString(String s) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

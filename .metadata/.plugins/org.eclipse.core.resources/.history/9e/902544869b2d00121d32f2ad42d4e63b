@@ -1,0 +1,19 @@
+package gui;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.Observable;
+
+
+public class CurrentSlot extends Observable implements ActionListener {
+	private String address;
+	
+	public void addressChange(String address){
+		
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		System.out.println(e.getActionCommand());
+	}
+}

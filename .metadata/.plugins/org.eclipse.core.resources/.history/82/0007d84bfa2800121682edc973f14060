@@ -1,0 +1,28 @@
+package gui;
+
+import java.awt.Color;
+import java.util.Observable;
+
+
+public class SlotLabels extends GridPanel implements Observer{
+    public SlotLabels(int rows, int cols) {
+        super(rows + 1, cols);
+        for (char ch = 'A'; ch < 'A' + cols; ch++) {
+            add();
+        }
+        for (int row = 1; row <= rows; row++) {
+            for (char ch = 'A'; ch < 'A' + cols; ch++) {
+                add(label);
+                labelList.add(label);
+            }
+        }
+        SlotLabel firstLabel = labelList.get(0);
+        firstLabel.setBackground(Color.YELLOW);
+    }
+
+	@Override
+	public void update(Observable arg0, Object arg1) {
+		// TODO Auto-generated method stub
+		
+	}
+}

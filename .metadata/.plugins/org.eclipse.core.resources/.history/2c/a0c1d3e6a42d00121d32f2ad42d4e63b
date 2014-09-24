@@ -1,0 +1,19 @@
+package gui;
+
+import java.awt.Color;
+import java.util.Observable;
+import java.util.Observer;
+
+public class CurrentLabel extends ColoredLabel implements Observer {
+    public CurrentLabel(CurrentSlot currSlot) {
+        super("A3", Color.WHITE);
+        currSlot.addObserver(this);
+    }
+
+	@Override
+	public void update(Observable o, Object arg) {
+		setText((String)arg);
+		System.out.println("heklshgldksg");
+		
+	}
+}

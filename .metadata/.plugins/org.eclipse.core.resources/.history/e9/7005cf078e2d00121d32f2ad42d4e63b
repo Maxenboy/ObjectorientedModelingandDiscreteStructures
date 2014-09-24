@@ -1,0 +1,11 @@
+package model;
+
+import expr.Environment;
+
+public interface Slot {
+
+	public String valueToString(Environment env);
+
+	public String expressionToString();
+
+}

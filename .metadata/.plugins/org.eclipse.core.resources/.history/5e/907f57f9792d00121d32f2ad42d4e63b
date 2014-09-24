@@ -1,0 +1,20 @@
+package model;
+
+import java.util.Scanner;
+
+public class SlotParser {
+	public static Slot parse(String s) {
+		Scanner scan = new Scanner(s);
+		String token = scan.next();
+		if (token.length() == 0) {
+			return new NullSlot();
+		}
+		if (token.equals('#')) {
+			int i = token.indexOf('#');
+			return new StringSlot(token.substring(i + 1));
+		}
+		
+		return ;
+
+	}
+}
